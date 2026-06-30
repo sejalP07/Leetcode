@@ -11,16 +11,16 @@ class Solution(object):
         right = n
 
         while left <= right:
+
             mid = (left + right) // 2
 
-            result = guess(mid)
+            res = guess(mid)
 
-            if result == 0:
+            if res == 0:
                 return mid
 
-            elif result == -1:
+            elif res == -1:
                 right = mid - 1
 
             else:
                 left = mid + 1
-        
