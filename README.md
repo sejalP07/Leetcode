@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
 ## String Matching
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sejalP07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
