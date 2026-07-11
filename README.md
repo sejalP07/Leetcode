@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/sejalP07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
