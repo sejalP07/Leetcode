@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
+| [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
