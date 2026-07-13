@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/sejalP07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
