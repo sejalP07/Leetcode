@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
