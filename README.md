@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sejalP07/Leetcode/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/sejalP07/Leetcode/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/sejalP07/Leetcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
