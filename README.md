@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sejalP07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sejalP07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sejalP07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sejalP07/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/sejalP07/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
 | [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
 ## Graph Theory
