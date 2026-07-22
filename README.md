@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sejalP07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sejalP07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
