@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sejalP07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/sejalP07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/sejalP07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sejalP07/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sejalP07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -183,5 +184,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/sejalP07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sejalP07/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
