@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sejalP07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sejalP07/Leetcode/tree/master/0547-number-of-provinces) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
