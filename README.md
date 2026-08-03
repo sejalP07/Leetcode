@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sejalP07/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/sejalP07/Leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/sejalP07/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/sejalP07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sejalP07/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/sejalP07/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sejalP07/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sejalP07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sejalP07/Leetcode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/sejalP07/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
