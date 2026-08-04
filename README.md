@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sejalP07/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/sejalP07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sejalP07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
