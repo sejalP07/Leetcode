@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sejalP07/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/sejalP07/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/sejalP07/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sejalP07/Leetcode/tree/master/0071-simplify-path) |
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sejalP07/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/sejalP07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
@@ -159,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sejalP07/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
