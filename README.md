@@ -221,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sejalP07/Leetcode/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/sejalP07/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
