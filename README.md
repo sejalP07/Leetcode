@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sejalP07/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sejalP07/Leetcode/tree/master/0071-simplify-path) |
+| [0299-bulls-and-cows](https://github.com/sejalP07/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sejalP07/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0299-bulls-and-cows](https://github.com/sejalP07/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sejalP07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sejalP07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/sejalP07/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/sejalP07/Leetcode/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Matrix
