@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sejalP07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sejalP07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/sejalP07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sejalP07/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sejalP07/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sejalP07/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sejalP07/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sejalP07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sejalP07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sejalP07/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sejalP07/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sejalP07/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sejalP07/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sejalP07/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sejalP07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/sejalP07/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 ## Bit Manipulation
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sejalP07/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sejalP07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
 |  |
 | ------- |
@@ -264,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sejalP07/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
