@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sejalP07/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sejalP07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sejalP07/Leetcode/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/sejalP07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/sejalP07/Leetcode/tree/master/0704-binary-search) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sejalP07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sejalP07/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sejalP07/Leetcode/tree/master/0575-distribute-candies) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sejalP07/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sejalP07/Leetcode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sejalP07/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0937-reorder-data-in-log-files](https://github.com/sejalP07/Leetcode/tree/master/0937-reorder-data-in-log-files) |
 ## Bit Manipulation
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sejalP07/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/sejalP07/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Union-Find
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sejalP07/Leetcode/tree/master/0055-jump-game) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Quicksort
 |  |
 | ------- |
@@ -281,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sejalP07/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/sejalP07/Leetcode/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
