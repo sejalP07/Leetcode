@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/sejalP07/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0937-reorder-data-in-log-files](https://github.com/sejalP07/Leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sejalP07/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sejalP07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sejalP07/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sejalP07/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sejalP07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/sejalP07/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/sejalP07/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sejalP07/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
