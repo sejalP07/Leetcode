@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sejalP07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/sejalP07/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3866-first-unique-even-element](https://github.com/sejalP07/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sejalP07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/sejalP07/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/sejalP07/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
