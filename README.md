@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sejalP07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/sejalP07/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/sejalP07/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## String Matching
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sejalP07/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sejalP07/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0937-reorder-data-in-log-files](https://github.com/sejalP07/Leetcode/tree/master/0937-reorder-data-in-log-files) |
+| [1254-number-of-closed-islands](https://github.com/sejalP07/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sejalP07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/sejalP07/Leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sejalP07/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/sejalP07/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sejalP07/Leetcode/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/sejalP07/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
 ## Divide and Conquer
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sejalP07/Leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/sejalP07/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Stack
 |  |
 | ------- |
