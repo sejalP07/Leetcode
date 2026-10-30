@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sejalP07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/sejalP07/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sejalP07/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/sejalP07/Leetcode/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/sejalP07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sejalP07/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2536-increment-submatrices-by-one](https://github.com/sejalP07/Leetcode/tree/master/2536-increment-submatrices-by-one) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sejalP07/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sejalP07/Leetcode/tree/master/0342-power-of-four) |
+| [1720-decode-xored-array](https://github.com/sejalP07/Leetcode/tree/master/1720-decode-xored-array) |
 ## Simulation
 |  |
 | ------- |
