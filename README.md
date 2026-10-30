@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sejalP07/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/sejalP07/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sejalP07/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sejalP07/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sejalP07/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sejalP07/Leetcode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sejalP07/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/sejalP07/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
