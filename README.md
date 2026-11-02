@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sejalP07/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sejalP07/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sejalP07/Leetcode/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/sejalP07/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sejalP07/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/sejalP07/Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sejalP07/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sejalP07/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sejalP07/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/sejalP07/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sejalP07/Leetcode/tree/master/0342-power-of-four) |
 | [1720-decode-xored-array](https://github.com/sejalP07/Leetcode/tree/master/1720-decode-xored-array) |
 ## Simulation
